@@ -1,0 +1,14 @@
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.exe
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.deps.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.runtimeconfig.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\bin\Debug\netcoreapp3.1\Ejercicio 33.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.dll
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.pdb
+C:\Users\emanu\OneDrive\Escritorio\Semestre 3\Lógica de programación\GITHUB\Ejercicio 33\obj\Debug\netcoreapp3.1\Ejercicio 33.genruntimeconfig.cache
